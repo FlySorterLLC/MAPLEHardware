@@ -1,6 +1,6 @@
-# SantaFeHardware Repository
+# MAPLEHardware Repository
 
-The Santa Fe Hardware Repository contains the design files for the Santa Fe fruit fly handling robot.
+The MAPLE Hardware Repository contains the design files for the MAPLE fruit fly handling robot.
 
 Build instructions: https://docs.google.com/document/d/1TA3YupyyByrOd9m6okqdpYfM0JYXHaHCEhxIdzhBA4U/edit?usp=sharing
 
